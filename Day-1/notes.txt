@@ -1,0 +1,9 @@
+<iframe>
+********
+   <iframe> tag is used to open the
+   1) google maps
+   2) youtube videos
+   3) pdf files
+   4) another webpage
+   5) wikipedia files
+  
